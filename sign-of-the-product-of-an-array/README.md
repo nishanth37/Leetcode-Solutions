@@ -1,3 +1,4 @@
+[Discussion Post (created on 10/3/2021 at 23:22)](https://leetcode.com/problems/sign-of-the-product-of-an-array/discuss/1152587/C%2B%2B-Straightforward-Solution)  
 <h2>1822. Sign of the Product of an Array</h2><h3>Easy</h3><hr><div><p>There is a function <code>signFunc(x)</code> that returns:</p>
 
 <ul>
