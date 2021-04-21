@@ -5,28 +5,17 @@ public:
     int minSwaps(vector<int>& data) {
         // edge case
         if(data.size() == 0) return 0;
-        int nOnes = 0;
-        int nZeros = 0;
-        int minZeros = INT_MAX;
-        for(auto i : data) {
-            if(i == 1)
-                nOnes++;
+        for(int i = 1; i < data.size(); i++) {
+            data[i] += data[i-1];
         }
-            
-        for(int i = 0; i < data.size(); i++) {
-            // incoming
-            if(data[i] == 0) {
-                nZeros++;
-            }
-            
-            // outgoing
-            if(i >= nOnes) {
-                if(data[i-nOnes] == 0)
-                    nZeros--;
-            }
-            if(i >= nOnes-1)
-                minZeros = min(minZeros, nZeros);
+        
+        int nOnes = data.back();
+        if(nOnes == 0) return 0;
+        int maxOnes = data[nOnes-1];
+        
+        for(int i = nOnes; i < data.size(); i++) {
+            maxOnes = max(maxOnes, data[i]-data[i-nOnes]);
         }
-        return minZeros;
+        return nOnes-maxOnes;
     }
 };
