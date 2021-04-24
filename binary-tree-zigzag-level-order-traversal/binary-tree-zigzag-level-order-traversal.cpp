@@ -10,16 +10,19 @@
  * };
  */
 // BFS using queue
+// Time Complexity: O(N^2) N = #nodes in tree
+// Space Complexity: O(N)
 class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
         // edge case
         if(root == nullptr) return {};
         vector<vector<int>> res;
-        queue<TreeNode*> q;
+        // space: O(N) when it is a complete binary tree, there are N/2 leaf nodes
+        queue<TreeNode*> q; 
         q.push(root);
         int lvl = 1;
-        while(!q.empty()) {
+        while(!q.empty()) { // worst-case time; O(N)
             int size = q.size();
             vector<int> temp;
             for(int i = 0; i < size; i++) {
@@ -30,7 +33,7 @@ public:
                 if(curr->right) q.push(curr->right);
             }
             if(lvl%2 == 0)
-                reverse(temp.begin(), temp.end());
+                reverse(temp.begin(), temp.end()); // worst-case time: O(N)
             lvl++;
             res.push_back(temp);
         }
