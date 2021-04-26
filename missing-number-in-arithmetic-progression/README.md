@@ -1,3 +1,4 @@
+[Discussion Post (created on 26/3/2021 at 3:50)](https://leetcode.com/problems/missing-number-in-arithmetic-progression/solution/)  
 <h2>1228. Missing Number In Arithmetic Progression</h2><h3>Easy</h3><hr><div><p>In some array <code>arr</code>, the values were in arithmetic progression: the values <code>arr[i + 1] - arr[i]</code> are all equal for every <code>0 &lt;= i &lt; arr.length - 1</code>.</p>
 
 <p>A value from <code>arr</code> was removed that <strong>was not the first or last value in the array</strong>.</p>
