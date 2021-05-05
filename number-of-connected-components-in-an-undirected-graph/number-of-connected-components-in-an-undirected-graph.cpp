@@ -7,14 +7,14 @@ public:
     void bfs(int vertex) {
         queue<int> q; // space: O(V)
         q.push(vertex);
-        visited[vertex] = 1;
+        
         while(!q.empty()) { //  
             int curr = q.front();
             q.pop();
+            visited[curr] = 1;
             for(int i : adjList[curr]) {
                 if(visited[i] == -1) {
                     q.push(i);
-                    visited[i] = 1;
                 }
             }
         }
