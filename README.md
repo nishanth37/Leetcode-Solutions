@@ -11,3 +11,7 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [3472-bitwise-or-of-adjacent-elements](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3472-bitwise-or-of-adjacent-elements) |
+# Database
+|  |
+| ------- |
+| [1438-find-the-team-size](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1438-find-the-team-size) |
