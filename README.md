@@ -15,3 +15,22 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [1438-find-the-team-size](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1438-find-the-team-size) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2502-sort-the-people) |
+## Hash Table
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2502-sort-the-people) |
+## String
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2502-sort-the-people) |
+## Sorting
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2502-sort-the-people) |
+<!---LeetCode Topics End-->
