@@ -20,10 +20,12 @@ This repository contains my approaches and implementations to some of the Leetco
 ## Array
 |  |
 | ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 ## String
 |  |
@@ -32,5 +34,6 @@ This repository contains my approaches and implementations to some of the Leetco
 ## Sorting
 |  |
 | ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
