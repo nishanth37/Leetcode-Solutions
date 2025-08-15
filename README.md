@@ -42,4 +42,16 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Math
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
