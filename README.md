@@ -33,6 +33,7 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2502-sort-the-people) |
+| [3462-vowels-game-in-a-string](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +47,7 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [3462-vowels-game-in-a-string](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -54,4 +56,12 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0342-power-of-four) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
