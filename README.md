@@ -21,6 +21,7 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [1098-largest-unique-number](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1098-largest-unique-number) |
+| [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -67,4 +68,8 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
