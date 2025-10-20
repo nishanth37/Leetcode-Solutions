@@ -23,6 +23,7 @@ This repository contains my approaches and implementations to some of the Leetco
 | [1098-largest-unique-number](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1098-largest-unique-number) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
@@ -35,6 +36,7 @@ This repository contains my approaches and implementations to some of the Leetco
 ## String
 |  |
 | ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3462-vowels-game-in-a-string](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
@@ -72,4 +74,8 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
