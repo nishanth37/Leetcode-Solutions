@@ -26,6 +26,7 @@ This repository contains my approaches and implementations to some of the Leetco
 | [1741-sort-array-by-increasing-frequency](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2502-sort-the-people) |
+| [2607-minimum-subarrays-in-a-valid-split](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [2607-minimum-subarrays-in-a-valid-split](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [3462-vowels-game-in-a-string](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
@@ -85,4 +87,9 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [0656-coin-path](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0656-coin-path) |
+| [2607-minimum-subarrays-in-a-valid-split](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2607-minimum-subarrays-in-a-valid-split) |
+## Number Theory
+|  |
+| ------- |
+| [2607-minimum-subarrays-in-a-valid-split](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 <!---LeetCode Topics End-->
