@@ -92,4 +92,16 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2607-minimum-subarrays-in-a-valid-split) |
+## Tree
+|  |
+| ------- |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+## Binary Tree
+|  |
+| ------- |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
