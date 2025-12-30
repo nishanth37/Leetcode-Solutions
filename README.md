@@ -107,4 +107,16 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
