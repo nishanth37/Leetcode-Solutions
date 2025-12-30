@@ -23,6 +23,7 @@ This repository contains my approaches and implementations to some of the Leetco
 | [0656-coin-path](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0656-coin-path) |
 | [1098-largest-unique-number](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1098-largest-unique-number) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
+| [1176-diet-plan-performance](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1176-diet-plan-performance) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2502-sort-the-people) |
@@ -119,4 +120,8 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Sliding Window
+|  |
+| ------- |
+| [1176-diet-plan-performance](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1176-diet-plan-performance) |
 <!---LeetCode Topics End-->
