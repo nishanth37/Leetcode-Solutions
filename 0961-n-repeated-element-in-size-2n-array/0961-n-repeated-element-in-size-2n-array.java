@@ -1,3 +1,5 @@
+// T.C. - O(N) - N - size of nums
+// S.C.: - O(N) - N - size of count hashmap
 class Solution {
     public int repeatedNTimes(int[] nums) {
         Map<Integer, Integer> count = new HashMap<>();
