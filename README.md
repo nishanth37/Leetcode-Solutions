@@ -36,6 +36,7 @@ This repository contains my approaches and implementations to some of the Leetco
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1098-largest-unique-number](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1098-largest-unique-number) |
+| [1244-design-a-leaderboard](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1244-design-a-leaderboard) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -49,6 +50,7 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [1098-largest-unique-number](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1098-largest-unique-number) |
+| [1244-design-a-leaderboard](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1244-design-a-leaderboard) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -120,6 +122,7 @@ This repository contains my approaches and implementations to some of the Leetco
 | ------- |
 | [0155-min-stack](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [1244-design-a-leaderboard](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1244-design-a-leaderboard) |
 ## Queue
 |  |
 | ------- |
