@@ -95,6 +95,7 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [0656-coin-path](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0656-coin-path) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 ## Number Theory
 |  |
