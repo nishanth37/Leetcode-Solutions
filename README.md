@@ -106,16 +106,19 @@ This repository contains my approaches and implementations to some of the Leetco
 | ------- |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Stack
 |  |
 | ------- |
