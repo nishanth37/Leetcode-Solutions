@@ -142,4 +142,8 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
