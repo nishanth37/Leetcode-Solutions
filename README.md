@@ -145,5 +145,6 @@ This repository contains my approaches and implementations to some of the Leetco
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
