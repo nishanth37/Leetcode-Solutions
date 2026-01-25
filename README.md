@@ -26,6 +26,7 @@ This repository contains my approaches and implementations to some of the Leetco
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1176-diet-plan-performance](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1176-diet-plan-performance) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2607-minimum-subarrays-in-a-valid-split) |
@@ -52,6 +53,7 @@ This repository contains my approaches and implementations to some of the Leetco
 | [1098-largest-unique-number](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1098-largest-unique-number) |
 | [1244-design-a-leaderboard](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1244-design-a-leaderboard) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2502-sort-the-people](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Greedy
@@ -138,6 +140,7 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [1176-diet-plan-performance](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1176-diet-plan-performance) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Breadth-First Search
 |  |
 | ------- |
