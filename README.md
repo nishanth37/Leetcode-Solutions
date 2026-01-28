@@ -46,6 +46,7 @@ This repository contains my approaches and implementations to some of the Leetco
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3462-vowels-game-in-a-string](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -158,4 +159,8 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [3033-modify-the-matrix](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3033-modify-the-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
