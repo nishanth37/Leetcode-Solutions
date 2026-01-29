@@ -38,6 +38,7 @@ This repository contains my approaches and implementations to some of the Leetco
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1098-largest-unique-number](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1098-largest-unique-number) |
 | [1244-design-a-leaderboard](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1244-design-a-leaderboard) |
@@ -48,6 +49,7 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3462-vowels-game-in-a-string](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -142,6 +144,7 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -166,4 +169,8 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
