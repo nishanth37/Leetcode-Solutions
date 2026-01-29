@@ -20,6 +20,7 @@ This repository contains my approaches and implementations to some of the Leetco
 ## Array
 |  |
 | ------- |
+| [0286-walls-and-gates](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0286-walls-and-gates) |
 | [0656-coin-path](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0656-coin-path) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1098-largest-unique-number](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1098-largest-unique-number) |
@@ -149,6 +150,7 @@ This repository contains my approaches and implementations to some of the Leetco
 ## Breadth-First Search
 |  |
 | ------- |
+| [0286-walls-and-gates](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0286-walls-and-gates) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Database
 |  |
@@ -158,6 +160,7 @@ This repository contains my approaches and implementations to some of the Leetco
 ## Matrix
 |  |
 | ------- |
+| [0286-walls-and-gates](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0286-walls-and-gates) |
 | [3033-modify-the-matrix](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3033-modify-the-matrix) |
 ## Two Pointers
 |  |
