@@ -20,6 +20,7 @@ This repository contains my approaches and implementations to some of the Leetco
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0286-walls-and-gates](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0286-walls-and-gates) |
 | [0656-coin-path](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0656-coin-path) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -48,6 +49,7 @@ This repository contains my approaches and implementations to some of the Leetco
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -173,4 +175,8 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
