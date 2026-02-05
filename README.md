@@ -35,6 +35,7 @@ This repository contains my approaches and implementations to some of the Leetco
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [3033-modify-the-matrix](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3033-modify-the-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3379-transformed-array](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3379-transformed-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3379-transformed-array](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3379-transformed-array) |
 ## Dynamic Programming
 |  |
 | ------- |
