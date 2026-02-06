@@ -22,6 +22,7 @@ This repository contains my approaches and implementations to some of the Leetco
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0286-walls-and-gates](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0286-walls-and-gates) |
+| [0362-design-hit-counter](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0362-design-hit-counter) |
 | [0656-coin-path](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0656-coin-path) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1098-largest-unique-number](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1098-largest-unique-number) |
@@ -99,6 +100,7 @@ This repository contains my approaches and implementations to some of the Leetco
 ## Binary Search
 |  |
 | ------- |
+| [0362-design-hit-counter](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0362-design-hit-counter) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 ## Simulation
 |  |
@@ -143,11 +145,13 @@ This repository contains my approaches and implementations to some of the Leetco
 | ------- |
 | [0155-min-stack](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0362-design-hit-counter](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0362-design-hit-counter) |
 | [1244-design-a-leaderboard](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1244-design-a-leaderboard) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0362-design-hit-counter](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0362-design-hit-counter) |
 | [0387-first-unique-character-in-a-string](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
@@ -181,4 +185,8 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Data Stream
+|  |
+| ------- |
+| [0362-design-hit-counter](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0362-design-hit-counter) |
 <!---LeetCode Topics End-->
