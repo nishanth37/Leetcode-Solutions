@@ -83,6 +83,7 @@ This repository contains my approaches and implementations to some of the Leetco
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
@@ -189,4 +190,8 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [0362-design-hit-counter](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0362-design-hit-counter) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
