@@ -54,6 +54,7 @@ This repository contains my approaches and implementations to some of the Leetco
 | [0014-longest-common-prefix](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0696-count-binary-substrings](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3462-vowels-game-in-a-string](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -178,6 +179,7 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0696-count-binary-substrings](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 ## Counting
 |  |
 | ------- |
