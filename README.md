@@ -23,6 +23,7 @@ This repository contains my approaches and implementations to some of the Leetco
 | [0014-longest-common-prefix](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0286-walls-and-gates](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0286-walls-and-gates) |
 | [0362-design-hit-counter](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0362-design-hit-counter) |
+| [0422-valid-word-square](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0422-valid-word-square) |
 | [0656-coin-path](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0656-coin-path) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1098-largest-unique-number](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1098-largest-unique-number) |
@@ -174,6 +175,7 @@ This repository contains my approaches and implementations to some of the Leetco
 |  |
 | ------- |
 | [0286-walls-and-gates](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0286-walls-and-gates) |
+| [0422-valid-word-square](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0422-valid-word-square) |
 | [3033-modify-the-matrix](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3033-modify-the-matrix) |
 ## Two Pointers
 |  |
