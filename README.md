@@ -79,6 +79,7 @@ This repository contains my approaches and implementations to some of the Leetco
 | ------- |
 | [0342-power-of-four](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0507-perfect-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2607-minimum-subarrays-in-a-valid-split](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2607-minimum-subarrays-in-a-valid-split) |
 | [3462-vowels-game-in-a-string](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -87,6 +88,7 @@ This repository contains my approaches and implementations to some of the Leetco
 | ------- |
 | [0190-reverse-bits](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
