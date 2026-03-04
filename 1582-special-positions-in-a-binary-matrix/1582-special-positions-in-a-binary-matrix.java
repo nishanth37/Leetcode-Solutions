@@ -1,39 +1,32 @@
-// T.C.: O(m.n.(m + n)) - m - rows in matrix, n - columns in matrix
-// O(m.n) for traversing each element in matrix
-// For each cell in matrix, we perform over m traversal of the same column and n traversal of the same row. That is additional O(m + n) time
-
-// S.C.: O(1)
-
+//T.C.: O(m.n) m - #rows, n - #cols
+//S.C.: O(m + n)
 class Solution {
-    private boolean rowElements(int position, int row, int[][] mat) {
-        for (int i = 0; i < mat[row].length; i++) {
-            if (i != position && mat[row][i] == 1) {
-                return false;
-            }
-        }
-        return true;
-    }
-
-    private boolean colElements(int position, int col, int[][] mat) {
-        for (int i = 0; i < mat.length; i++) {
-            if (i != position && mat[i][col] == 1) {
-                return false;
-            }
-        }
-        return true;
-    }
-
     public int numSpecial(int[][] mat) {
+        int rows = mat.length;
+        int cols = mat[0].length;
         int res = 0;
-        for (int i = 0; i < mat.length; i++) {
-            for (int j = 0; j < mat[0].length; j++) {
-                if (mat[i][j] == 1) {
-                    if (rowElements(j, i, mat) && colElements(i, j, mat)) {
+        int[] rowCount = new int[rows];
+        int[] colCount = new int[cols];
+
+        for (int row = 0; row < rows; row++) {
+            for (int col = 0; col < cols; col++) {
+                if (mat[row][col] == 1) {
+                    rowCount[row]++;
+                    colCount[col]++;
+                }
+            }
+        }
+
+        for (int row = 0; row < rows; row++) {
+            for (int col = 0; col < cols; col++) {
+                if (mat[row][col] == 1) {
+                    if (rowCount[row] == 1 && colCount[col] == 1) {
                         res++;
                     }
                 }
             }
-        }
+        }        
+
         return res;
     }
 }
