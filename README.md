@@ -30,6 +30,7 @@ This repository contains my approaches and implementations to some of the Leetco
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1176-diet-plan-performance](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1176-diet-plan-performance) |
 | [1200-minimum-absolute-difference](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nishanth37/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -186,6 +187,7 @@ This repository contains my approaches and implementations to some of the Leetco
 | ------- |
 | [0286-walls-and-gates](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0286-walls-and-gates) |
 | [0422-valid-word-square](https://github.com/nishanth37/Leetcode-Solutions/tree/master/0422-valid-word-square) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/nishanth37/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3033-modify-the-matrix](https://github.com/nishanth37/Leetcode-Solutions/tree/master/3033-modify-the-matrix) |
 ## Two Pointers
 |  |
